@@ -1,0 +1,890 @@
+survived,pclass,sex,age,age_categories,sibsp,parch,fare,fare_categories,embarked
+0,lower,male,22.0,youth,1,0,7.25,very low,S
+1,upper,female,38.0,adult,1,0,71.2833,high,C
+1,lower,female,26.0,adult,0,0,7.925,low,S
+1,upper,female,35.0,adult,1,0,53.1,high,S
+0,lower,male,35.0,adult,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.4583,low,Q
+0,upper,male,54.0,adult,0,0,51.8625,high,S
+0,lower,male,2.0,infant,3,1,21.075,medium,S
+1,lower,female,27.0,adult,0,2,11.1333,low,S
+1,middle,female,14.0,child,1,0,30.0708,medium,C
+1,lower,female,4.0,child,1,1,16.7,medium,S
+1,upper,female,58.0,adult,0,0,26.55,medium,S
+0,lower,male,20.0,youth,0,0,8.05,low,S
+0,lower,male,39.0,adult,1,5,31.275,high,S
+0,lower,female,14.0,child,0,0,7.8542,very low,S
+1,middle,female,55.0,adult,0,0,16.0,medium,S
+0,lower,male,2.0,infant,4,1,29.125,medium,Q
+1,middle,male,29.69911764705882,adult,0,0,13.0,low,S
+0,lower,female,31.0,adult,1,0,18.0,medium,S
+1,lower,female,29.69911764705882,adult,0,0,7.225,very low,C
+0,middle,male,35.0,adult,0,0,26.0,medium,S
+1,middle,male,34.0,adult,0,0,13.0,low,S
+1,lower,female,15.0,youth,0,0,8.0292,low,Q
+1,upper,male,28.0,adult,0,0,35.5,high,S
+0,lower,female,8.0,child,3,1,21.075,medium,S
+1,lower,female,38.0,adult,1,5,31.3875,high,S
+0,lower,male,29.69911764705882,adult,0,0,7.225,very low,C
+0,upper,male,19.0,youth,3,2,263.0,high,S
+1,lower,female,29.69911764705882,adult,0,0,7.8792,very low,Q
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,upper,male,40.0,adult,0,0,27.7208,medium,C
+1,upper,female,29.69911764705882,adult,1,0,146.5208,high,C
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+0,middle,male,66.0,senior,0,0,10.5,low,S
+0,upper,male,28.0,adult,1,0,82.1708,high,C
+0,upper,male,42.0,adult,1,0,52.0,high,S
+1,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+0,lower,male,21.0,youth,0,0,8.05,low,S
+0,lower,female,18.0,youth,2,0,18.0,medium,S
+1,lower,female,14.0,child,1,0,11.2417,low,C
+0,lower,female,40.0,adult,1,0,9.475,low,S
+0,middle,female,27.0,adult,1,0,21.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,C
+1,middle,female,3.0,child,1,2,41.5792,high,C
+1,lower,female,19.0,youth,0,0,7.8792,very low,Q
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,1,0,15.5,medium,Q
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+0,lower,male,29.69911764705882,adult,2,0,21.6792,medium,C
+0,lower,female,18.0,youth,1,0,17.8,medium,S
+0,lower,male,7.0,child,4,1,39.6875,high,S
+0,lower,male,21.0,youth,0,0,7.8,very low,S
+1,upper,female,49.0,adult,1,0,76.7292,high,C
+1,middle,female,29.0,adult,1,0,26.0,medium,S
+0,upper,male,65.0,senior,0,1,61.9792,high,C
+1,upper,male,29.69911764705882,adult,0,0,35.5,high,S
+1,middle,female,21.0,youth,0,0,10.5,low,S
+0,lower,male,28.5,adult,0,0,7.2292,very low,C
+1,middle,female,5.0,child,1,2,27.75,medium,S
+0,lower,male,11.0,child,5,2,46.9,high,S
+0,lower,male,22.0,youth,0,0,7.2292,very low,C
+0,upper,male,45.0,adult,1,0,83.475,high,S
+0,lower,male,4.0,child,3,2,27.9,medium,S
+0,upper,male,29.69911764705882,adult,0,0,27.7208,medium,C
+1,lower,male,29.69911764705882,adult,1,1,15.2458,low,C
+1,middle,female,29.0,adult,0,0,10.5,low,S
+0,lower,male,19.0,youth,0,0,8.1583,low,S
+1,lower,female,17.0,youth,4,2,7.925,low,S
+0,lower,male,26.0,adult,2,0,8.6625,low,S
+0,middle,male,32.0,adult,0,0,10.5,low,S
+0,lower,female,16.0,youth,5,2,46.9,high,S
+0,middle,male,21.0,youth,0,0,73.5,high,S
+0,lower,male,26.0,adult,1,0,14.4542,low,C
+1,lower,male,32.0,adult,0,0,56.4958,high,S
+0,lower,male,25.0,adult,0,0,7.65,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,middle,male,0.83,infant,0,2,29.0,medium,S
+1,lower,female,30.0,adult,0,0,12.475,low,S
+0,lower,male,22.0,youth,0,0,9.0,low,S
+1,lower,male,29.0,adult,0,0,9.5,low,S
+1,lower,female,29.69911764705882,adult,0,0,7.7875,very low,Q
+0,upper,male,28.0,adult,0,0,47.1,high,S
+1,middle,female,17.0,youth,0,0,10.5,low,S
+1,lower,female,33.0,adult,3,0,15.85,medium,S
+0,lower,male,16.0,youth,1,3,34.375,high,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,upper,female,23.0,youth,3,2,263.0,high,S
+0,lower,male,24.0,youth,0,0,8.05,low,S
+0,lower,male,29.0,adult,0,0,8.05,low,S
+0,lower,male,20.0,youth,0,0,7.8542,very low,S
+0,upper,male,46.0,adult,1,0,61.175,high,S
+0,lower,male,26.0,adult,1,2,20.575,medium,S
+0,lower,male,59.0,adult,0,0,7.25,very low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,upper,male,71.0,senior,0,0,34.6542,high,C
+1,upper,male,23.0,youth,0,1,63.3583,high,C
+1,middle,female,34.0,adult,0,1,23.0,medium,S
+0,middle,male,34.0,adult,1,0,26.0,medium,S
+0,lower,female,28.0,adult,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,upper,male,21.0,youth,0,1,77.2875,high,S
+0,lower,male,33.0,adult,0,0,8.6542,low,S
+0,lower,male,37.0,adult,2,0,7.925,low,S
+0,lower,male,28.0,adult,0,0,7.8958,very low,S
+1,lower,female,21.0,youth,0,0,7.65,very low,S
+1,lower,male,29.69911764705882,adult,0,0,7.775,very low,S
+0,lower,male,38.0,adult,0,0,7.8958,very low,S
+1,lower,female,29.69911764705882,adult,1,0,24.15,medium,Q
+0,upper,male,47.0,adult,0,0,52.0,high,S
+0,lower,female,14.5,youth,1,0,14.4542,low,C
+0,lower,male,22.0,youth,0,0,8.05,low,S
+0,lower,female,20.0,youth,1,0,9.825,low,S
+0,lower,female,17.0,youth,0,0,14.4583,low,C
+0,lower,male,21.0,youth,0,0,7.925,low,S
+0,lower,male,70.5,senior,0,0,7.75,very low,Q
+0,middle,male,29.0,adult,1,0,21.0,medium,S
+0,upper,male,24.0,youth,0,1,247.5208,high,C
+0,lower,female,2.0,infant,4,2,31.275,high,S
+0,middle,male,21.0,youth,2,0,73.5,high,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,middle,male,32.5,adult,1,0,30.0708,medium,C
+1,middle,female,32.5,adult,0,0,13.0,low,S
+0,upper,male,54.0,adult,0,1,77.2875,high,S
+1,lower,male,12.0,child,1,0,11.2417,low,C
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,male,24.0,youth,0,0,7.1417,very low,S
+1,lower,female,29.69911764705882,adult,1,1,22.3583,medium,C
+0,lower,male,45.0,adult,0,0,6.975,very low,S
+0,lower,male,33.0,adult,0,0,7.8958,very low,C
+0,lower,male,20.0,youth,0,0,7.05,very low,S
+0,lower,female,47.0,adult,1,0,14.5,low,S
+1,middle,female,29.0,adult,1,0,26.0,medium,S
+0,middle,male,25.0,adult,0,0,13.0,low,S
+0,middle,male,23.0,youth,0,0,15.0458,low,C
+1,upper,female,19.0,youth,0,2,26.2833,medium,S
+0,upper,male,37.0,adult,1,0,53.1,high,S
+0,lower,male,16.0,youth,0,0,9.2167,low,S
+0,upper,male,24.0,youth,0,0,79.2,high,C
+0,lower,female,29.69911764705882,adult,0,2,15.2458,low,C
+1,lower,female,22.0,youth,0,0,7.75,very low,S
+1,lower,female,24.0,youth,1,0,15.85,medium,S
+0,lower,male,19.0,youth,0,0,6.75,very low,Q
+0,middle,male,18.0,youth,0,0,11.5,low,S
+0,middle,male,19.0,youth,1,1,36.75,high,S
+1,lower,male,27.0,adult,0,0,7.7958,very low,S
+0,lower,female,9.0,child,2,2,34.375,high,S
+0,middle,male,36.5,adult,0,2,26.0,medium,S
+0,middle,male,42.0,adult,0,0,13.0,low,S
+0,middle,male,51.0,adult,0,0,12.525,low,S
+1,upper,female,22.0,youth,1,0,66.6,high,S
+0,lower,male,55.5,adult,0,0,8.05,low,S
+0,lower,male,40.5,adult,0,2,14.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.3125,very low,S
+0,upper,male,51.0,adult,0,1,61.3792,high,C
+1,lower,female,16.0,youth,0,0,7.7333,very low,Q
+0,lower,male,30.0,adult,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.6625,low,S
+0,lower,male,29.69911764705882,adult,8,2,69.55,high,S
+0,lower,male,44.0,adult,0,1,16.1,medium,S
+1,middle,female,40.0,adult,0,0,15.75,medium,S
+0,lower,male,26.0,adult,0,0,7.775,very low,S
+0,lower,male,17.0,youth,0,0,8.6625,low,S
+0,lower,male,1.0,infant,4,1,39.6875,high,S
+1,lower,male,9.0,child,0,2,20.525,medium,S
+1,upper,female,29.69911764705882,adult,0,1,55.0,high,S
+0,lower,female,45.0,adult,1,4,27.9,medium,S
+0,upper,male,29.69911764705882,adult,0,0,25.925,medium,S
+0,lower,male,28.0,adult,0,0,56.4958,high,S
+0,upper,male,61.0,adult,0,0,33.5,high,S
+0,lower,male,4.0,child,4,1,29.125,medium,Q
+1,lower,female,1.0,infant,1,1,11.1333,low,S
+0,lower,male,21.0,youth,0,0,7.925,low,S
+0,upper,male,56.0,adult,0,0,30.6958,medium,C
+0,lower,male,18.0,youth,1,1,7.8542,very low,S
+0,lower,male,29.69911764705882,adult,3,1,25.4667,medium,S
+0,upper,female,50.0,adult,0,0,28.7125,medium,C
+0,middle,male,30.0,adult,0,0,13.0,low,S
+0,lower,male,36.0,adult,0,0,0.0,,S
+0,lower,female,29.69911764705882,adult,8,2,69.55,high,S
+0,middle,male,29.69911764705882,adult,0,0,15.05,low,C
+0,lower,male,9.0,child,4,2,31.3875,high,S
+1,middle,male,1.0,infant,2,1,39.0,high,S
+1,lower,female,4.0,child,0,2,22.025,medium,S
+0,upper,male,29.69911764705882,adult,0,0,50.0,high,S
+1,lower,female,29.69911764705882,adult,1,0,15.5,medium,Q
+1,upper,male,45.0,adult,0,0,26.55,medium,S
+0,lower,male,40.0,adult,1,1,15.5,medium,Q
+0,lower,male,36.0,adult,0,0,7.8958,very low,S
+1,middle,female,32.0,adult,0,0,13.0,low,S
+0,middle,male,19.0,youth,0,0,13.0,low,S
+1,lower,female,19.0,youth,1,0,7.8542,very low,S
+1,middle,male,3.0,child,1,1,26.0,medium,S
+1,upper,female,44.0,adult,0,0,27.7208,medium,C
+1,upper,female,58.0,adult,0,0,146.5208,high,C
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+0,lower,male,42.0,adult,0,1,8.4042,low,S
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+0,middle,female,24.0,youth,0,0,13.0,low,S
+0,lower,male,28.0,adult,0,0,9.5,low,S
+0,lower,male,29.69911764705882,adult,8,2,69.55,high,S
+0,lower,male,34.0,adult,0,0,6.4958,very low,S
+0,lower,male,45.5,adult,0,0,7.225,very low,C
+1,lower,male,18.0,youth,0,0,8.05,low,S
+0,lower,female,2.0,infant,0,1,10.4625,low,S
+0,lower,male,32.0,adult,1,0,15.85,medium,S
+1,lower,male,26.0,adult,0,0,18.7875,medium,C
+1,lower,female,16.0,youth,0,0,7.75,very low,Q
+1,upper,male,40.0,adult,0,0,31.0,medium,C
+0,lower,male,24.0,youth,0,0,7.05,very low,S
+1,middle,female,35.0,adult,0,0,21.0,medium,S
+0,lower,male,22.0,youth,0,0,7.25,very low,S
+0,middle,male,30.0,adult,0,0,13.0,low,S
+0,lower,male,29.69911764705882,adult,1,0,7.75,very low,Q
+1,upper,female,31.0,adult,1,0,113.275,high,C
+1,lower,female,27.0,adult,0,0,7.925,low,S
+0,middle,male,42.0,adult,1,0,27.0,medium,S
+1,upper,female,32.0,adult,0,0,76.2917,high,C
+0,middle,male,30.0,adult,0,0,10.5,low,S
+1,lower,male,16.0,youth,0,0,8.05,low,S
+0,middle,male,27.0,adult,0,0,13.0,low,S
+0,lower,male,51.0,adult,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+1,upper,male,38.0,adult,1,0,90.0,high,S
+0,lower,male,22.0,youth,0,0,9.35,low,S
+1,middle,male,19.0,youth,0,0,10.5,low,S
+0,lower,male,20.5,youth,0,0,7.25,very low,S
+0,middle,male,18.0,youth,0,0,13.0,low,S
+0,lower,female,29.69911764705882,adult,3,1,25.4667,medium,S
+1,upper,female,35.0,adult,1,0,83.475,high,S
+0,lower,male,29.0,adult,0,0,7.775,very low,S
+0,middle,male,59.0,adult,0,0,13.5,low,S
+1,lower,female,5.0,child,4,2,31.3875,high,S
+0,middle,male,24.0,youth,0,0,10.5,low,S
+0,lower,female,29.69911764705882,adult,0,0,7.55,very low,S
+0,middle,male,44.0,adult,1,0,26.0,medium,S
+1,middle,female,8.0,child,0,2,26.25,medium,S
+0,middle,male,19.0,youth,0,0,10.5,low,S
+0,middle,male,33.0,adult,0,0,12.275,low,S
+0,lower,female,29.69911764705882,adult,1,0,14.4542,low,C
+1,lower,female,29.69911764705882,adult,1,0,15.5,medium,Q
+0,middle,male,29.0,adult,0,0,10.5,low,S
+0,lower,male,22.0,youth,0,0,7.125,very low,S
+0,lower,male,30.0,adult,0,0,7.225,very low,C
+0,upper,male,44.0,adult,2,0,90.0,high,Q
+0,lower,female,25.0,adult,0,0,7.775,very low,S
+1,middle,female,24.0,youth,0,2,14.5,low,S
+1,upper,male,37.0,adult,1,1,52.5542,high,S
+0,middle,male,54.0,adult,1,0,26.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.25,very low,S
+0,lower,female,29.0,adult,1,1,10.4625,low,S
+0,upper,male,62.0,adult,0,0,26.55,medium,S
+0,lower,male,30.0,adult,1,0,16.1,medium,S
+0,lower,female,41.0,adult,0,2,20.2125,medium,S
+1,lower,female,29.0,adult,0,2,15.2458,low,C
+1,upper,female,29.69911764705882,adult,0,0,79.2,high,C
+1,upper,female,30.0,adult,0,0,86.5,high,S
+1,upper,female,35.0,adult,0,0,512.3292,high,C
+1,middle,female,50.0,adult,0,1,26.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,male,3.0,child,4,2,31.3875,high,S
+0,upper,male,52.0,adult,1,1,79.65,high,S
+0,upper,male,40.0,adult,0,0,0.0,,S
+0,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+0,middle,male,36.0,adult,0,0,10.5,low,S
+0,lower,male,16.0,youth,4,1,39.6875,high,S
+1,lower,male,25.0,adult,1,0,7.775,very low,S
+1,upper,female,58.0,adult,0,1,153.4625,high,S
+1,upper,female,35.0,adult,0,0,135.6333,high,S
+0,upper,male,29.69911764705882,adult,0,0,31.0,medium,S
+1,lower,male,25.0,adult,0,0,0.0,,S
+1,middle,female,41.0,adult,0,1,19.5,medium,S
+0,upper,male,37.0,adult,0,1,29.7,medium,C
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+1,upper,female,63.0,adult,1,0,77.9583,high,S
+0,lower,female,45.0,adult,0,0,7.75,very low,S
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+0,lower,male,7.0,child,4,1,29.125,medium,Q
+1,lower,female,35.0,adult,1,1,20.25,medium,S
+0,lower,male,65.0,senior,0,0,7.75,very low,Q
+0,lower,male,28.0,adult,0,0,7.8542,very low,S
+0,lower,male,16.0,youth,0,0,9.5,low,S
+1,lower,male,19.0,youth,0,0,8.05,low,S
+0,upper,male,29.69911764705882,adult,0,0,26.0,medium,S
+0,lower,male,33.0,adult,0,0,8.6625,low,C
+1,lower,male,30.0,adult,0,0,9.5,low,S
+0,lower,male,22.0,youth,0,0,7.8958,very low,S
+1,middle,male,42.0,adult,0,0,13.0,low,S
+1,lower,female,22.0,youth,0,0,7.75,very low,Q
+1,upper,female,26.0,adult,0,0,78.85,high,S
+1,upper,female,19.0,youth,1,0,91.0792,high,C
+0,middle,male,36.0,adult,0,0,12.875,low,C
+0,lower,female,24.0,youth,0,0,8.85,low,S
+0,lower,male,24.0,youth,0,0,7.8958,very low,S
+0,upper,male,29.69911764705882,adult,0,0,27.7208,medium,C
+0,lower,male,23.5,youth,0,0,7.2292,very low,C
+0,upper,female,2.0,infant,1,2,151.55,high,S
+1,upper,male,29.69911764705882,adult,0,0,30.5,medium,S
+1,upper,female,50.0,adult,0,1,247.5208,high,C
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,male,29.69911764705882,adult,2,0,23.25,medium,Q
+0,lower,male,19.0,youth,0,0,0.0,,S
+1,middle,female,29.69911764705882,adult,0,0,12.35,low,Q
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,upper,male,0.92,infant,1,2,151.55,high,S
+1,upper,female,29.69911764705882,adult,0,0,110.8833,high,C
+1,upper,female,17.0,youth,1,0,108.9,high,C
+0,middle,male,30.0,adult,1,0,24.0,medium,C
+1,upper,female,30.0,adult,0,0,56.9292,high,C
+1,upper,female,24.0,youth,0,0,83.1583,high,C
+1,upper,female,18.0,youth,2,2,262.375,high,C
+0,middle,female,26.0,adult,1,1,26.0,medium,S
+0,lower,male,28.0,adult,0,0,7.8958,very low,S
+0,middle,male,43.0,adult,1,1,26.25,medium,S
+1,lower,female,26.0,adult,0,0,7.8542,very low,S
+1,middle,female,24.0,youth,1,0,26.0,medium,S
+0,middle,male,54.0,adult,0,0,14.0,low,S
+1,upper,female,31.0,adult,0,2,164.8667,high,S
+1,upper,female,40.0,adult,1,1,134.5,high,C
+0,lower,male,22.0,youth,0,0,7.25,very low,S
+0,lower,male,27.0,adult,0,0,7.8958,very low,S
+1,middle,female,30.0,adult,0,0,12.35,low,Q
+1,middle,female,22.0,youth,1,1,29.0,medium,S
+0,lower,male,29.69911764705882,adult,8,2,69.55,high,S
+1,upper,female,36.0,adult,0,0,135.6333,high,C
+0,lower,male,61.0,adult,0,0,6.2375,very low,S
+1,middle,female,36.0,adult,0,0,13.0,low,S
+1,lower,female,31.0,adult,1,1,20.525,medium,S
+1,upper,female,16.0,youth,0,1,57.9792,high,C
+1,lower,female,29.69911764705882,adult,2,0,23.25,medium,Q
+0,upper,male,45.5,adult,0,0,28.5,medium,S
+0,upper,male,38.0,adult,0,1,153.4625,high,S
+0,lower,male,16.0,youth,2,0,18.0,medium,S
+1,upper,female,29.69911764705882,adult,1,0,133.65,high,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,upper,male,29.0,adult,1,0,66.6,high,S
+1,upper,female,41.0,adult,0,0,134.5,high,C
+1,lower,male,45.0,adult,0,0,8.05,low,S
+0,upper,male,45.0,adult,0,0,35.5,high,S
+1,middle,male,2.0,infant,1,1,26.0,medium,S
+1,upper,female,24.0,youth,3,2,263.0,high,S
+0,middle,male,28.0,adult,0,0,13.0,low,S
+0,middle,male,25.0,adult,0,0,13.0,low,S
+0,middle,male,36.0,adult,0,0,13.0,low,S
+1,middle,female,24.0,youth,0,0,13.0,low,S
+1,middle,female,40.0,adult,0,0,13.0,low,S
+1,lower,female,29.69911764705882,adult,1,0,16.1,medium,S
+1,lower,male,3.0,child,1,1,15.9,medium,S
+0,lower,male,42.0,adult,0,0,8.6625,low,S
+0,lower,male,23.0,youth,0,0,9.225,low,S
+0,upper,male,29.69911764705882,adult,0,0,35.0,high,S
+0,lower,male,15.0,youth,1,1,7.2292,very low,C
+0,lower,male,25.0,adult,1,0,17.8,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.225,very low,C
+0,lower,male,28.0,adult,0,0,9.5,low,S
+1,upper,female,22.0,youth,0,1,55.0,high,S
+0,middle,female,38.0,adult,0,0,13.0,low,S
+1,lower,female,29.69911764705882,adult,0,0,7.8792,very low,Q
+1,lower,female,29.69911764705882,adult,0,0,7.8792,very low,Q
+0,lower,male,40.0,adult,1,4,27.9,medium,S
+0,middle,male,29.0,adult,1,0,27.7208,medium,C
+0,lower,female,45.0,adult,0,1,14.4542,low,C
+0,lower,male,35.0,adult,0,0,7.05,very low,S
+0,lower,male,29.69911764705882,adult,1,0,15.5,medium,Q
+0,lower,male,30.0,adult,0,0,7.25,very low,S
+1,upper,female,60.0,adult,1,0,75.25,high,C
+1,lower,female,29.69911764705882,adult,0,0,7.2292,very low,C
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+1,upper,female,24.0,youth,0,0,69.3,high,C
+1,upper,male,25.0,adult,1,0,55.4417,high,C
+0,lower,male,18.0,youth,1,0,6.4958,very low,S
+0,lower,male,19.0,youth,0,0,8.05,low,S
+0,upper,male,22.0,youth,0,0,135.6333,high,C
+0,lower,female,3.0,child,3,1,21.075,medium,S
+1,upper,female,29.69911764705882,adult,1,0,82.1708,high,C
+1,lower,female,22.0,youth,0,0,7.25,very low,S
+0,upper,male,27.0,adult,0,2,211.5,high,C
+0,lower,male,20.0,youth,0,0,4.0125,very low,C
+0,lower,male,19.0,youth,0,0,7.775,very low,S
+1,upper,female,42.0,adult,0,0,227.525,high,C
+1,lower,female,1.0,infant,0,2,15.7417,medium,C
+0,lower,male,32.0,adult,0,0,7.925,low,S
+1,upper,female,35.0,adult,1,0,52.0,high,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,middle,male,18.0,youth,0,0,73.5,high,S
+0,lower,male,1.0,infant,5,2,46.9,high,S
+1,middle,female,36.0,adult,0,0,13.0,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.7292,very low,Q
+1,middle,female,17.0,youth,0,0,12.0,low,C
+1,upper,male,36.0,adult,1,2,120.0,high,S
+1,lower,male,21.0,youth,0,0,7.7958,very low,S
+0,lower,male,28.0,adult,2,0,7.925,low,S
+1,upper,female,23.0,youth,1,0,113.275,high,C
+1,lower,female,24.0,youth,0,2,16.7,medium,S
+0,lower,male,22.0,youth,0,0,7.7958,very low,S
+0,lower,female,31.0,adult,0,0,7.8542,very low,S
+0,middle,male,46.0,adult,0,0,26.0,medium,S
+0,middle,male,23.0,youth,0,0,10.5,low,S
+1,middle,female,28.0,adult,0,0,12.65,low,S
+1,lower,male,39.0,adult,0,0,7.925,low,S
+0,lower,male,26.0,adult,0,0,8.05,low,S
+0,lower,female,21.0,youth,1,0,9.825,low,S
+0,lower,male,28.0,adult,1,0,15.85,medium,S
+0,lower,female,20.0,youth,0,0,8.6625,low,S
+0,middle,male,34.0,adult,1,0,21.0,medium,S
+0,lower,male,51.0,adult,0,0,7.75,very low,S
+1,middle,male,3.0,child,1,1,18.75,medium,S
+0,lower,male,21.0,youth,0,0,7.775,very low,S
+0,lower,female,29.69911764705882,adult,3,1,25.4667,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,6.8583,very low,Q
+1,upper,female,33.0,adult,1,0,90.0,high,Q
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+1,lower,male,44.0,adult,0,0,7.925,low,S
+0,lower,female,29.69911764705882,adult,0,0,8.05,low,S
+1,middle,female,34.0,adult,1,1,32.5,high,S
+1,middle,female,18.0,youth,0,2,13.0,low,S
+0,middle,male,30.0,adult,0,0,13.0,low,S
+0,lower,female,10.0,child,0,2,24.15,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,C
+0,lower,male,21.0,youth,0,0,7.7333,very low,Q
+0,lower,male,29.0,adult,0,0,7.875,very low,S
+0,lower,female,28.0,adult,1,1,14.4,low,S
+0,lower,male,18.0,youth,1,1,20.2125,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.25,very low,S
+1,middle,female,28.0,adult,1,0,26.0,medium,S
+1,middle,female,19.0,youth,0,0,26.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,male,32.0,adult,0,0,8.05,low,S
+1,upper,male,28.0,adult,0,0,26.55,medium,S
+1,lower,female,29.69911764705882,adult,1,0,16.1,medium,S
+1,middle,female,42.0,adult,1,0,26.0,medium,S
+0,lower,male,17.0,youth,0,0,7.125,very low,S
+0,upper,male,50.0,adult,1,0,55.9,high,S
+1,upper,female,14.0,child,1,2,120.0,high,S
+0,lower,female,21.0,youth,2,2,34.375,high,S
+1,middle,female,24.0,youth,2,3,18.75,medium,S
+0,upper,male,64.0,adult,1,4,263.0,high,S
+0,middle,male,31.0,adult,0,0,10.5,low,S
+1,middle,female,45.0,adult,1,1,26.25,medium,S
+0,lower,male,20.0,youth,0,0,9.5,low,S
+0,lower,male,25.0,adult,1,0,7.775,very low,S
+1,middle,female,28.0,adult,0,0,13.0,low,S
+1,lower,male,29.69911764705882,adult,0,0,8.1125,low,S
+1,upper,male,4.0,child,0,2,81.8583,high,S
+1,middle,female,13.0,child,0,1,19.5,medium,S
+1,upper,male,34.0,adult,0,0,26.55,medium,S
+1,lower,female,5.0,child,2,1,19.2583,medium,C
+1,upper,male,52.0,adult,0,0,30.5,medium,S
+0,middle,male,36.0,adult,1,2,27.75,medium,S
+0,lower,male,29.69911764705882,adult,1,0,19.9667,medium,S
+0,upper,male,30.0,adult,0,0,27.75,medium,C
+1,upper,male,49.0,adult,1,0,89.1042,high,C
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,lower,male,29.0,adult,0,0,7.8958,very low,C
+0,upper,male,65.0,senior,0,0,26.55,medium,S
+1,upper,female,29.69911764705882,adult,1,0,51.8625,high,S
+1,middle,female,50.0,adult,0,0,10.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,upper,male,48.0,adult,0,0,26.55,medium,S
+0,lower,male,34.0,adult,0,0,8.05,low,S
+0,upper,male,47.0,adult,0,0,38.5,high,S
+0,middle,male,48.0,adult,0,0,13.0,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,lower,male,38.0,adult,0,0,7.05,very low,S
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+0,upper,male,56.0,adult,0,0,26.55,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.725,very low,Q
+1,lower,female,0.75,infant,2,1,19.2583,medium,C
+0,lower,male,29.69911764705882,adult,0,0,7.25,very low,S
+0,lower,male,38.0,adult,0,0,8.6625,low,S
+1,middle,female,33.0,adult,1,2,27.75,medium,S
+1,middle,female,23.0,youth,0,0,13.7917,low,C
+0,lower,female,22.0,youth,0,0,9.8375,low,S
+0,upper,male,29.69911764705882,adult,0,0,52.0,high,S
+0,middle,male,34.0,adult,1,0,21.0,medium,S
+0,lower,male,29.0,adult,1,0,7.0458,very low,S
+0,lower,male,22.0,youth,0,0,7.5208,very low,S
+1,lower,female,2.0,infant,0,1,12.2875,low,S
+0,lower,male,9.0,child,5,2,46.9,high,S
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+0,lower,male,50.0,adult,0,0,8.05,low,S
+1,lower,female,63.0,adult,0,0,9.5875,low,S
+1,upper,male,25.0,adult,1,0,91.0792,high,C
+0,lower,female,29.69911764705882,adult,3,1,25.4667,medium,S
+1,upper,female,35.0,adult,1,0,90.0,high,S
+0,upper,male,58.0,adult,0,0,29.7,medium,C
+0,lower,male,30.0,adult,0,0,8.05,low,S
+1,lower,male,9.0,child,1,1,15.9,medium,S
+0,lower,male,29.69911764705882,adult,1,0,19.9667,medium,S
+0,lower,male,21.0,youth,0,0,7.25,very low,S
+0,upper,male,55.0,adult,0,0,30.5,medium,S
+0,upper,male,71.0,senior,0,0,49.5042,high,C
+0,lower,male,21.0,youth,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,0,0,14.4583,low,C
+1,upper,female,54.0,adult,1,0,78.2667,high,C
+0,lower,male,29.69911764705882,adult,0,0,15.1,low,S
+0,upper,female,25.0,adult,1,2,151.55,high,S
+0,lower,male,24.0,youth,0,0,7.7958,very low,S
+0,lower,male,17.0,youth,0,0,8.6625,low,S
+0,lower,female,21.0,youth,0,0,7.75,very low,Q
+0,lower,female,29.69911764705882,adult,0,0,7.6292,very low,Q
+0,lower,female,37.0,adult,0,0,9.5875,low,S
+1,upper,female,16.0,youth,0,0,86.5,high,S
+0,upper,male,18.0,youth,1,0,108.9,high,C
+1,middle,female,33.0,adult,0,2,26.0,medium,S
+1,upper,male,29.69911764705882,adult,0,0,26.55,medium,S
+0,lower,male,28.0,adult,0,0,22.525,medium,S
+1,lower,male,26.0,adult,0,0,56.4958,high,S
+1,lower,male,29.0,adult,0,0,7.75,very low,Q
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,upper,male,36.0,adult,0,0,26.2875,medium,S
+1,upper,female,54.0,adult,1,0,59.4,high,C
+0,lower,male,24.0,youth,0,0,7.4958,very low,S
+0,upper,male,47.0,adult,0,0,34.0208,high,S
+1,middle,female,34.0,adult,0,0,10.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,24.15,medium,Q
+1,middle,female,36.0,adult,1,0,26.0,medium,S
+0,lower,male,32.0,adult,0,0,7.8958,very low,S
+1,upper,female,30.0,adult,0,0,93.5,high,S
+0,lower,male,22.0,youth,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.225,very low,C
+1,upper,female,44.0,adult,0,1,57.9792,high,C
+0,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+0,lower,male,40.5,adult,0,0,7.75,very low,Q
+1,middle,female,50.0,adult,0,0,10.5,low,S
+0,upper,male,29.69911764705882,adult,0,0,221.7792,high,S
+0,lower,male,39.0,adult,0,0,7.925,low,S
+0,middle,male,23.0,youth,2,1,11.5,low,S
+1,middle,female,2.0,infant,1,1,26.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+0,lower,male,17.0,youth,1,1,7.2292,very low,C
+1,lower,female,29.69911764705882,adult,0,2,22.3583,medium,C
+0,lower,female,30.0,adult,0,0,8.6625,low,S
+1,middle,female,7.0,child,0,2,26.25,medium,S
+0,upper,male,45.0,adult,0,0,26.55,medium,S
+1,upper,female,30.0,adult,0,0,106.425,high,C
+0,lower,male,29.69911764705882,adult,0,0,14.5,low,S
+1,upper,female,22.0,youth,0,2,49.5,high,C
+1,upper,female,36.0,adult,0,2,71.0,high,S
+0,lower,female,9.0,child,4,2,31.275,high,S
+0,lower,female,11.0,child,4,2,31.275,high,S
+1,middle,male,32.0,adult,1,0,26.0,medium,S
+0,upper,male,50.0,adult,1,0,106.425,high,C
+0,upper,male,64.0,adult,0,0,26.0,medium,S
+1,middle,female,19.0,youth,1,0,26.0,medium,S
+1,middle,male,29.69911764705882,adult,0,0,13.8625,low,C
+0,lower,male,33.0,adult,1,1,20.525,medium,S
+1,middle,male,8.0,child,1,1,36.75,high,S
+1,upper,male,17.0,youth,0,2,110.8833,high,C
+0,middle,male,27.0,adult,0,0,26.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.8292,very low,Q
+1,lower,male,22.0,youth,0,0,7.225,very low,C
+1,lower,female,22.0,youth,0,0,7.775,very low,S
+0,upper,male,62.0,adult,0,0,26.55,medium,S
+1,upper,female,48.0,adult,1,0,39.6,high,C
+0,upper,male,29.69911764705882,adult,0,0,227.525,high,C
+1,upper,female,39.0,adult,1,1,79.65,high,S
+1,lower,female,36.0,adult,1,0,17.4,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+0,lower,male,40.0,adult,0,0,7.8958,very low,S
+0,middle,male,28.0,adult,0,0,13.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,lower,female,29.69911764705882,adult,0,0,8.05,low,S
+0,lower,male,24.0,youth,2,0,24.15,medium,S
+0,lower,male,19.0,youth,0,0,7.8958,very low,S
+0,lower,female,29.0,adult,0,4,21.075,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+1,lower,male,32.0,adult,0,0,7.8542,very low,S
+1,middle,male,62.0,adult,0,0,10.5,low,S
+1,upper,female,53.0,adult,2,0,51.4792,high,S
+1,upper,male,36.0,adult,0,0,26.3875,medium,S
+1,lower,female,29.69911764705882,adult,0,0,7.75,very low,Q
+0,lower,male,16.0,youth,0,0,8.05,low,S
+0,lower,male,19.0,youth,0,0,14.5,low,S
+1,middle,female,34.0,adult,0,0,13.0,low,S
+1,upper,female,39.0,adult,1,0,55.9,high,S
+0,lower,female,29.69911764705882,adult,1,0,14.4583,low,C
+1,lower,male,32.0,adult,0,0,7.925,low,S
+1,middle,female,25.0,adult,1,1,30.0,medium,S
+1,upper,female,39.0,adult,1,1,110.8833,high,C
+0,middle,male,54.0,adult,0,0,26.0,medium,S
+0,upper,male,36.0,adult,0,0,40.125,high,C
+0,lower,male,29.69911764705882,adult,0,0,8.7125,low,C
+1,upper,female,18.0,youth,0,2,79.65,high,S
+0,middle,male,47.0,adult,0,0,15.0,low,S
+1,upper,male,60.0,adult,1,1,79.2,high,C
+0,lower,male,22.0,youth,0,0,8.05,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+0,lower,male,35.0,adult,0,0,7.125,very low,S
+1,upper,female,52.0,adult,1,0,78.2667,high,C
+0,lower,male,47.0,adult,0,0,7.25,very low,S
+0,lower,female,29.69911764705882,adult,0,2,7.75,very low,Q
+0,middle,male,37.0,adult,1,0,26.0,medium,S
+0,lower,male,36.0,adult,1,1,24.15,medium,S
+1,middle,female,29.69911764705882,adult,0,0,33.0,high,S
+0,lower,male,49.0,adult,0,0,0.0,,S
+0,lower,male,29.69911764705882,adult,0,0,7.225,very low,C
+1,upper,male,49.0,adult,1,0,56.9292,high,C
+1,middle,female,24.0,youth,2,1,27.0,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,upper,male,29.69911764705882,adult,0,0,42.4,high,S
+0,lower,male,44.0,adult,0,0,8.05,low,S
+1,upper,male,35.0,adult,0,0,26.55,medium,C
+0,lower,male,36.0,adult,1,0,15.55,medium,S
+0,lower,male,30.0,adult,0,0,7.8958,very low,S
+1,upper,male,27.0,adult,0,0,30.5,medium,S
+1,middle,female,22.0,youth,1,2,41.5792,high,C
+1,upper,female,40.0,adult,0,0,153.4625,high,S
+0,lower,female,39.0,adult,1,5,31.275,high,S
+0,lower,male,29.69911764705882,adult,0,0,7.05,very low,S
+1,lower,female,29.69911764705882,adult,1,0,15.5,medium,Q
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+0,lower,male,35.0,adult,0,0,8.05,low,S
+1,middle,female,24.0,youth,1,2,65.0,high,S
+0,lower,male,34.0,adult,1,1,14.4,low,S
+0,lower,female,26.0,adult,1,0,16.1,medium,S
+1,middle,female,4.0,child,2,1,39.0,high,S
+0,middle,male,26.0,adult,0,0,10.5,low,S
+0,lower,male,27.0,adult,1,0,14.4542,low,C
+1,upper,male,42.0,adult,1,0,52.5542,high,S
+1,lower,male,20.0,youth,1,1,15.7417,medium,C
+0,lower,male,21.0,youth,0,0,7.8542,very low,S
+0,lower,male,21.0,youth,0,0,16.1,medium,S
+0,upper,male,61.0,adult,0,0,32.3208,high,S
+0,middle,male,57.0,adult,0,0,12.35,low,Q
+1,upper,female,21.0,youth,0,0,77.9583,high,S
+0,lower,male,26.0,adult,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.7333,very low,Q
+1,upper,male,80.0,senior,0,0,30.0,medium,S
+0,lower,male,51.0,adult,0,0,7.0542,very low,S
+1,upper,male,32.0,adult,0,0,30.5,medium,C
+0,upper,male,29.69911764705882,adult,0,0,0.0,,S
+0,lower,female,9.0,child,3,2,27.9,medium,S
+1,middle,female,28.0,adult,0,0,13.0,low,S
+0,lower,male,32.0,adult,0,0,7.925,low,S
+0,middle,male,31.0,adult,1,1,26.25,medium,S
+0,lower,female,41.0,adult,0,5,39.6875,high,S
+0,lower,male,29.69911764705882,adult,1,0,16.1,medium,S
+0,lower,male,20.0,youth,0,0,7.8542,very low,S
+1,upper,female,24.0,youth,0,0,69.3,high,C
+0,lower,female,2.0,infant,3,2,27.9,medium,S
+1,lower,male,29.69911764705882,adult,0,0,56.4958,high,S
+1,lower,female,0.75,infant,2,1,19.2583,medium,C
+1,upper,male,48.0,adult,1,0,76.7292,high,C
+0,lower,male,19.0,youth,0,0,7.8958,very low,S
+1,upper,male,56.0,adult,0,0,35.5,high,C
+0,lower,male,29.69911764705882,adult,0,0,7.55,very low,S
+1,lower,female,23.0,youth,0,0,7.55,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+1,middle,female,18.0,youth,0,1,23.0,medium,S
+0,lower,male,21.0,youth,0,0,8.4333,low,S
+1,lower,female,29.69911764705882,adult,0,0,7.8292,very low,Q
+0,lower,female,18.0,youth,0,0,6.75,very low,Q
+0,middle,male,24.0,youth,2,0,73.5,high,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,lower,female,32.0,adult,1,1,15.5,medium,Q
+0,middle,male,23.0,youth,0,0,13.0,low,S
+0,upper,male,58.0,adult,0,2,113.275,high,C
+1,upper,male,50.0,adult,2,0,133.65,high,S
+0,lower,male,40.0,adult,0,0,7.225,very low,C
+0,upper,male,47.0,adult,0,0,25.5875,medium,S
+0,lower,male,36.0,adult,0,0,7.4958,very low,S
+1,lower,male,20.0,youth,1,0,7.925,low,S
+0,middle,male,32.0,adult,2,0,73.5,high,S
+0,middle,male,25.0,adult,0,0,13.0,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.775,very low,S
+0,lower,male,43.0,adult,0,0,8.05,low,S
+1,upper,female,29.69911764705882,adult,1,0,52.0,high,S
+1,middle,female,40.0,adult,1,1,39.0,high,S
+0,upper,male,31.0,adult,1,0,52.0,high,S
+0,middle,male,70.0,senior,0,0,10.5,low,S
+1,middle,male,31.0,adult,0,0,13.0,low,S
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+0,lower,male,18.0,youth,0,0,7.775,very low,S
+0,lower,male,24.5,adult,0,0,8.05,low,S
+1,lower,female,18.0,youth,0,0,9.8417,low,S
+0,lower,female,43.0,adult,1,6,46.9,high,S
+1,upper,male,36.0,adult,0,1,512.3292,high,C
+0,lower,female,29.69911764705882,adult,0,0,8.1375,low,Q
+1,upper,male,27.0,adult,0,0,76.7292,high,C
+0,lower,male,20.0,youth,0,0,9.225,low,S
+0,lower,male,14.0,child,5,2,46.9,high,S
+0,middle,male,60.0,adult,1,1,39.0,high,S
+0,middle,male,25.0,adult,1,2,41.5792,high,C
+0,lower,male,14.0,child,4,1,39.6875,high,S
+0,lower,male,19.0,youth,0,0,10.1708,low,S
+0,lower,male,18.0,youth,0,0,7.7958,very low,S
+1,upper,female,15.0,youth,0,1,211.3375,high,S
+1,upper,male,31.0,adult,1,0,57.0,high,S
+1,lower,female,4.0,child,0,1,13.4167,low,C
+1,lower,male,29.69911764705882,adult,0,0,56.4958,high,S
+0,lower,male,25.0,adult,0,0,7.225,very low,C
+0,upper,male,60.0,adult,0,0,26.55,medium,S
+0,middle,male,52.0,adult,0,0,13.5,low,S
+0,lower,male,44.0,adult,0,0,8.05,low,S
+1,lower,female,29.69911764705882,adult,0,0,7.7333,very low,Q
+0,upper,male,49.0,adult,1,1,110.8833,high,C
+0,lower,male,42.0,adult,0,0,7.65,very low,S
+1,upper,female,18.0,youth,1,0,227.525,high,C
+1,upper,male,35.0,adult,0,0,26.2875,medium,S
+0,lower,female,18.0,youth,0,1,14.4542,low,C
+0,lower,male,25.0,adult,0,0,7.7417,very low,Q
+0,lower,male,26.0,adult,1,0,7.8542,very low,S
+0,middle,male,39.0,adult,0,0,26.0,medium,S
+1,middle,female,45.0,adult,0,0,13.5,low,S
+1,upper,male,42.0,adult,0,0,26.2875,medium,S
+1,upper,female,22.0,youth,0,0,151.55,high,S
+1,lower,male,29.69911764705882,adult,1,1,15.2458,low,C
+1,upper,female,24.0,youth,0,0,49.5042,high,C
+0,upper,male,29.69911764705882,adult,0,0,26.55,medium,S
+1,upper,male,48.0,adult,1,0,52.0,high,S
+0,lower,male,29.0,adult,0,0,9.4833,low,S
+0,middle,male,52.0,adult,0,0,13.0,low,S
+0,lower,male,19.0,youth,0,0,7.65,very low,S
+1,upper,female,38.0,adult,0,0,227.525,high,C
+1,middle,female,27.0,adult,0,0,10.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,15.5,medium,Q
+0,lower,male,33.0,adult,0,0,7.775,very low,S
+1,middle,female,6.0,child,0,1,33.0,high,S
+0,lower,male,17.0,youth,1,0,7.0542,very low,S
+0,middle,male,34.0,adult,0,0,13.0,low,S
+0,middle,male,50.0,adult,0,0,13.0,low,S
+1,upper,male,27.0,adult,1,0,53.1,high,S
+0,lower,male,20.0,youth,0,0,8.6625,low,S
+1,middle,female,30.0,adult,3,0,21.0,medium,S
+1,lower,female,29.69911764705882,adult,0,0,7.7375,very low,Q
+0,middle,male,25.0,adult,1,0,26.0,medium,S
+0,lower,female,25.0,adult,1,0,7.925,low,S
+1,upper,female,29.0,adult,0,0,211.3375,high,S
+0,lower,male,11.0,child,0,0,18.7875,medium,C
+0,middle,male,29.69911764705882,adult,0,0,0.0,,S
+0,middle,male,23.0,youth,0,0,13.0,low,S
+0,middle,male,23.0,youth,0,0,13.0,low,S
+0,lower,male,28.5,adult,0,0,16.1,medium,S
+0,lower,female,48.0,adult,1,3,34.375,high,S
+1,upper,male,35.0,adult,0,0,512.3292,high,C
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+1,upper,male,29.69911764705882,adult,0,0,30.0,medium,S
+0,upper,male,36.0,adult,1,0,78.85,high,S
+1,upper,female,21.0,youth,2,2,262.375,high,C
+0,lower,male,24.0,youth,1,0,16.1,medium,S
+1,lower,male,31.0,adult,0,0,7.925,low,S
+0,upper,male,70.0,senior,1,1,71.0,high,S
+0,lower,male,16.0,youth,1,1,20.25,medium,S
+1,middle,female,30.0,adult,0,0,13.0,low,S
+0,upper,male,19.0,youth,1,0,53.1,high,S
+0,lower,male,31.0,adult,0,0,7.75,very low,Q
+1,middle,female,4.0,child,1,1,23.0,medium,S
+1,lower,male,6.0,child,0,1,12.475,low,S
+0,lower,male,33.0,adult,0,0,9.5,low,S
+0,lower,male,23.0,youth,0,0,7.8958,very low,S
+1,middle,female,48.0,adult,1,2,65.0,high,S
+1,middle,male,0.67,infant,1,1,14.5,low,S
+0,lower,male,28.0,adult,0,0,7.7958,very low,S
+0,middle,male,18.0,youth,0,0,11.5,low,S
+0,lower,male,34.0,adult,0,0,8.05,low,S
+1,upper,female,33.0,adult,0,0,86.5,high,S
+0,lower,male,29.69911764705882,adult,0,0,14.5,low,S
+0,lower,male,41.0,adult,0,0,7.125,very low,S
+1,lower,male,20.0,youth,0,0,7.2292,very low,C
+1,upper,female,36.0,adult,1,2,120.0,high,S
+0,lower,male,16.0,youth,0,0,7.775,very low,S
+1,upper,female,51.0,adult,1,0,77.9583,high,S
+0,upper,male,29.69911764705882,adult,0,0,39.6,high,C
+0,lower,female,30.5,adult,0,0,7.75,very low,Q
+0,lower,male,29.69911764705882,adult,1,0,24.15,medium,Q
+0,lower,male,32.0,adult,0,0,8.3625,low,S
+0,lower,male,24.0,youth,0,0,9.5,low,S
+0,lower,male,48.0,adult,0,0,7.8542,very low,S
+0,middle,female,57.0,adult,0,0,10.5,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.225,very low,C
+1,middle,female,54.0,adult,1,3,23.0,medium,S
+0,lower,male,18.0,youth,0,0,7.75,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,female,5.0,child,0,0,12.475,low,S
+0,lower,male,29.69911764705882,adult,0,0,7.7375,very low,Q
+1,upper,female,43.0,adult,0,1,211.3375,high,S
+1,lower,female,13.0,child,0,0,7.2292,very low,C
+1,upper,female,17.0,youth,1,0,57.0,high,S
+0,upper,male,29.0,adult,0,0,30.0,medium,S
+0,lower,male,29.69911764705882,adult,1,2,23.45,medium,S
+0,lower,male,25.0,adult,0,0,7.05,very low,S
+0,lower,male,25.0,adult,0,0,7.25,very low,S
+1,lower,female,18.0,youth,0,0,7.4958,very low,S
+0,lower,male,8.0,child,4,1,29.125,medium,Q
+1,lower,male,1.0,infant,1,2,20.575,medium,S
+0,upper,male,46.0,adult,0,0,79.2,high,C
+0,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+0,middle,male,16.0,youth,0,0,26.0,medium,S
+0,lower,female,29.69911764705882,adult,8,2,69.55,high,S
+0,upper,male,29.69911764705882,adult,0,0,30.6958,medium,C
+0,lower,male,25.0,adult,0,0,7.8958,very low,S
+0,middle,male,39.0,adult,0,0,13.0,low,S
+1,upper,female,49.0,adult,0,0,25.9292,medium,S
+1,lower,female,31.0,adult,0,0,8.6833,low,S
+0,lower,male,30.0,adult,0,0,7.2292,very low,C
+0,lower,female,30.0,adult,1,1,24.15,medium,S
+0,middle,male,34.0,adult,0,0,13.0,low,S
+1,middle,female,31.0,adult,1,1,26.25,medium,S
+1,upper,male,11.0,child,1,2,120.0,high,S
+1,lower,male,0.42,infant,0,1,8.5167,low,C
+1,lower,male,27.0,adult,0,0,6.975,very low,S
+0,lower,male,31.0,adult,0,0,7.775,very low,S
+0,upper,male,39.0,adult,0,0,0.0,,S
+0,lower,female,18.0,youth,0,0,7.775,very low,S
+0,middle,male,39.0,adult,0,0,13.0,low,S
+1,upper,female,33.0,adult,1,0,53.1,high,S
+0,lower,male,26.0,adult,0,0,7.8875,very low,S
+0,lower,male,39.0,adult,0,0,24.15,medium,S
+0,middle,male,35.0,adult,0,0,10.5,low,S
+0,lower,female,6.0,child,4,2,31.275,high,S
+0,lower,male,30.5,adult,0,0,8.05,low,S
+0,upper,male,29.69911764705882,adult,0,0,0.0,,S
+0,lower,female,23.0,youth,0,0,7.925,low,S
+0,middle,male,31.0,adult,1,1,37.0042,high,C
+0,lower,male,43.0,adult,0,0,6.45,very low,S
+0,lower,male,10.0,child,3,2,27.9,medium,S
+1,upper,female,52.0,adult,1,1,93.5,high,S
+1,lower,male,27.0,adult,0,0,8.6625,low,S
+0,upper,male,38.0,adult,0,0,0.0,,S
+1,lower,female,27.0,adult,0,1,12.475,low,S
+0,lower,male,2.0,infant,4,1,39.6875,high,S
+0,lower,male,29.69911764705882,adult,0,0,6.95,very low,Q
+0,lower,male,29.69911764705882,adult,0,0,56.4958,high,S
+1,middle,male,1.0,infant,0,2,37.0042,high,C
+1,lower,male,29.69911764705882,adult,0,0,7.75,very low,Q
+1,lower,female,15.0,youth,1,0,14.4542,low,C
+1,middle,male,0.83,infant,1,1,18.75,medium,S
+0,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+0,lower,male,23.0,youth,0,0,7.8542,very low,S
+0,lower,male,18.0,youth,0,0,8.3,low,S
+1,upper,female,39.0,adult,1,1,83.1583,high,C
+0,lower,male,21.0,youth,0,0,8.6625,low,S
+0,lower,male,29.69911764705882,adult,0,0,8.05,low,S
+1,lower,male,32.0,adult,0,0,56.4958,high,S
+1,upper,male,29.69911764705882,adult,0,0,29.7,medium,C
+0,lower,male,20.0,youth,0,0,7.925,low,S
+0,middle,male,16.0,youth,0,0,10.5,low,S
+1,upper,female,30.0,adult,0,0,31.0,medium,C
+0,lower,male,34.5,adult,0,0,6.4375,very low,C
+0,lower,male,17.0,youth,0,0,8.6625,low,S
+0,lower,male,42.0,adult,0,0,7.55,very low,S
+0,lower,male,29.69911764705882,adult,8,2,69.55,high,S
+0,lower,male,35.0,adult,0,0,7.8958,very low,C
+0,middle,male,28.0,adult,0,1,33.0,high,S
+1,upper,female,29.69911764705882,adult,1,0,89.1042,high,C
+0,lower,male,4.0,child,4,2,31.275,high,S
+0,lower,male,74.0,senior,0,0,7.775,very low,S
+0,lower,female,9.0,child,1,1,15.2458,low,C
+1,upper,female,16.0,youth,0,1,39.4,high,S
+0,middle,female,44.0,adult,1,0,26.0,medium,S
+1,lower,female,18.0,youth,0,1,9.35,low,S
+1,upper,female,45.0,adult,1,1,164.8667,high,S
+1,upper,male,51.0,adult,0,0,26.55,medium,S
+1,lower,female,24.0,youth,0,3,19.2583,medium,C
+0,lower,male,29.69911764705882,adult,0,0,7.2292,very low,C
+0,lower,male,41.0,adult,2,0,14.1083,low,S
+0,middle,male,21.0,youth,1,0,11.5,low,S
+1,upper,female,48.0,adult,0,0,25.9292,medium,S
+0,lower,female,29.69911764705882,adult,8,2,69.55,high,S
+0,middle,male,24.0,youth,0,0,13.0,low,S
+1,middle,female,42.0,adult,0,0,13.0,low,S
+1,middle,female,27.0,adult,1,0,13.8583,low,C
+0,upper,male,31.0,adult,0,0,50.4958,high,S
+0,lower,male,29.69911764705882,adult,0,0,9.5,low,S
+1,lower,male,4.0,child,1,1,11.1333,low,S
+0,lower,male,26.0,adult,0,0,7.8958,very low,S
+1,upper,female,47.0,adult,1,1,52.5542,high,S
+0,upper,male,33.0,adult,0,0,5.0,very low,S
+0,lower,male,47.0,adult,0,0,9.0,low,S
+1,middle,female,28.0,adult,1,0,24.0,medium,C
+1,lower,female,15.0,youth,0,0,7.225,very low,C
+0,lower,male,20.0,youth,0,0,9.8458,low,S
+0,lower,male,19.0,youth,0,0,7.8958,very low,S
+0,lower,male,29.69911764705882,adult,0,0,7.8958,very low,S
+1,upper,female,56.0,adult,0,1,83.1583,high,C
+1,middle,female,25.0,adult,0,1,26.0,medium,S
+0,lower,male,33.0,adult,0,0,7.8958,very low,S
+0,lower,female,22.0,youth,0,0,10.5167,low,S
+0,middle,male,28.0,adult,0,0,10.5,low,S
+0,lower,male,25.0,adult,0,0,7.05,very low,S
+0,lower,female,39.0,adult,0,5,29.125,medium,Q
+0,middle,male,27.0,adult,0,0,13.0,low,S
+1,upper,female,19.0,youth,0,0,30.0,medium,S
+0,lower,female,29.69911764705882,adult,1,2,23.45,medium,S
+1,upper,male,26.0,adult,0,0,30.0,medium,C
+0,lower,male,32.0,adult,0,0,7.75,very low,Q
