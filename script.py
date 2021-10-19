@@ -5,13 +5,13 @@ import matplotlib.pyplot as plt
 
 #loading data into a dataframe
 df = pd.read_csv('clean_titanic_data.csv')
-
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 #dealing with user input
 def input_():
     #prompting the user to pick a way to view data.
-    user_input = input('type "C" for conclusion, "H" for data header, "G" for general statics, or type a specific column name to do analysis')
+    user_input = input('type "C" for conclusion, "H" for data header, "G" for general statics, or type a specific column name to do analysis\n')
     #checking if the user entered a valid input.
-    if user_input.lower() not in 'chg' or user_input.lower() not in df.columns:
+    if user_input.lower() not in 'chg' and user_input.lower() not in df.columns:
         print('not valid input, please try again.')
         #recursive call for the function.
         input_()
@@ -28,6 +28,18 @@ def input_():
     #dealing with dataframe columns
     else:
         print(df[user_input].describe())
-    
+
+def wrap_function():  
+    while True:
+        print('Ready for some data!!')
+        input_()
+        end = input('want to go again?[y/n]')
+        if end in 'Yy':
+            wrap_function()
+        else:
+            break
+        break
+
+wrap_function()
 
 
