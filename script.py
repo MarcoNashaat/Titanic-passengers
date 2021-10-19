@@ -25,7 +25,9 @@ def input_():
     #printing general statics and information.
     elif user_input.lower() == 'g':
         print(df.describe()) , print(df.info())
-
-        
+    #dealing with dataframe columns
+    else:
+        print(df[user_input].describe())
+    
 
 
